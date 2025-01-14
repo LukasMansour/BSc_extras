@@ -1,0 +1,1 @@
+This repository contains plotting, figures and cluster utilities as well as the results used in my Bachelor's examination.
